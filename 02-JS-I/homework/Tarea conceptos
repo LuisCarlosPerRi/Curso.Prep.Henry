@@ -1,0 +1,9 @@
+Variables: es un espacio al que se le puede asignar un valor  y puede ser represetado por una letra.
+
+Strings: representa a los caracteres.
+
+Funciones (argumentos, return): son conjuntos de códigos dentro de un espacio cerrado los cuales pueden recibir datos, y ser invocados desde otros espacios.
+
+Declaraciones if: la declaración es una condicional qeu sirve para  ejecutar código cuando se cumple cierta condición.
+
+Valores booleanos (true, false): son los valores del ordenador análogos al uno y cero conocidos como bits.  
