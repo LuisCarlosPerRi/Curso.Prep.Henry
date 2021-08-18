@@ -1,5 +1,5 @@
 For:
-    For es un bucle con un ciclo de repetición determinado por una variable incluida en su statement. Se utiliza para simplificar código repetitivo.
+    For es un bucle con un ciclo de repetición determinado por una variable incluida en su declaración. Se utiliza para simplificar código repetitivo.
 
 &&, ||, !:
     Son operadores matemáticos de Y, O y Negación, respectivamente, los cuales producen un resultado al ser utilizados junto a sus operandos.
