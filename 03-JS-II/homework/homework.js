@@ -44,14 +44,12 @@ function saludo(idioma) {
   // Si "idioma" es "ingles", devuelve "Hello!"
   // Si "idioma" no es ninguno de los anteiores o es `undefined` devuelve "Hola!"
   // Tu código:
-  if (idioma=='aleman'){
-      return 'Guten Tag!';
-  } else if (idioma=='mandarin'){
-      return 'Ni Hao!';
-  } else if (idioma=='ingles'){
-      return 'Hello!';
+  switch(idioma){
+    case 'aleman': return 'Guten Tag!';
+    case 'mandarin': return 'Ni Hao!';
+    case 'ingles': return 'Hello!';
+    default: return 'Hola!';
   }
-  return 'Hola!';
 }
 
 function colors(color) {
