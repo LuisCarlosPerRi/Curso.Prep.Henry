@@ -2,4 +2,6 @@ For:
     For es un bucle con un ciclo de repetición determinado por una variable incluida en su declaración. Se utiliza para simplificar tareas repetitivas evitando que se repita código innecesario.
 
 &&, ||, !:
-    Son operadores matemáticos de Y, O y Negación, respectivamente, los cuales producen un resultado al ser utilizados junto a sus operandos.
+    Son operadores matemáticos de Y, O y Negación, respectivamente, los cuales producen un resultado al ser utilizados junto a sus operandos. En el primero ambos operandos tienen que cumplirse 
+    o lo que es lo mismo ser verdaeros, para que el resultado de la comparación sea  true, en el segundo caso solo es necesario que un operando sea verdadero para que el resultado de la comparación
+    sea verdadero, y en el tercer caso hace la comparación con el valor contrario  esperando si el operado es true, entonces que devuelva false.
