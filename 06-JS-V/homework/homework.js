@@ -57,7 +57,6 @@ function agregarStringInvertida() {
     //   Edad: 22,
     //   Domicilio: 'Saavedra 123'
     //  }
-
   class Persona {
     constructor(nombre, apellido, edad, domicilio){
       this.nombre = nombre,
@@ -72,7 +71,6 @@ function agregarStringInvertida() {
         Apellido: this.apellido,
         Edad: this.edad,
         Domcilio:this.domicilio
-
       }
     }
   }
@@ -101,7 +99,6 @@ function crearInstanciaPersona(nombre, apellido, edad, dir) {
   Object.assign(juan, {nombre: nombre, apellido: apellido, edad: edad, dir: dir})
 
   return juan;*/
-
 
   var nuevaPer = new Persona('Juan','Perez',22,'Saavedra 123')
   return nuevaPer;
