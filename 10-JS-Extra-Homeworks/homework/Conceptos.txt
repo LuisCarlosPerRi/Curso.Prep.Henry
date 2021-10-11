@@ -1,0 +1,1 @@
+Callback es cuando a una función le pasamos otra función.

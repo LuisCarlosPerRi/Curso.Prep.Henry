@@ -20,4 +20,4 @@ Notación de puntos vs notación de corchetes
     La notación de puntos es  una manera de acceder a la propiedad de un objeto mediante un punto seguido después del objeto. Su ventaja es que es rápido y sencillo, 
     pero un poco limitado.
     La notación de corchetes utiliza los paréntesis para acceder a las propiedades de un objeto. Su principal ventaja es que se pueden asignar variables a la propiedad
-    mediante ésta notación.
+    mediante ésta notación.                   
