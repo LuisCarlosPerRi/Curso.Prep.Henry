@@ -1,0 +1,9 @@
+Prototype:
+
+Prototype es el objeto principal también llamado padre de todos los demás objetos de una clase, 
+el cual tiene la característica de heredar sus propiedades a los subobjetosque derivan de él.
+
+Constructors:
+
+
+El constructor es un método que nos permite instanciar/crear un objeto a partir de una clase dada.
